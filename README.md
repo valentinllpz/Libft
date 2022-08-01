@@ -14,4 +14,4 @@ make bonus
 
 ## 📚 Sources
 
-- `man`
+- `man` + function name
