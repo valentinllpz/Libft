@@ -12,6 +12,6 @@ Clone the repository and access it with `cd`. From there, use the following comm
 make bonus
 ```
 
-## 📚 Sources
+## 📚 Ressources
 
 - `man` + function name
